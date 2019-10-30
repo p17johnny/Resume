@@ -39,66 +39,72 @@
   
 - ### 作品參考
 
-  1.
-        ![](https://github.com/p17johnny/resume/raw/master/img/chugia.jpg)
-
-        MarkeT 2.0 校園二手交易平台
-        -  以學生為中心的二手資源交流平台 
-        -  PHP, MySQL, HTML5, CSS3, ajax, javascript, jQuery
-        -  作者群：MyLava(陳繹仁、賴曉萱、謝隆傑、張齊紘、廖顯億)
-
-      [MarkeT 2.0官網](http://rensv.synology.me/market2_0/chugiamain/index.php)
-
-  2. 
-        ![](https://github.com/p17johnny/resume/raw/master/img/flyingstudio.jpg) 
-
-        FlyingStudio 紙飛機競賽宣傳官網
-        -  推廣童年玩樂的紙飛機競賽
-        -  HTML5, CSS3, BOOTSTRAP
-
-  3. 
-        ![](https://github.com/p17johnny/resume/raw/master/img/jojo.jpg) 
-        
-        JojoMarry
-        -  婚紗攝影形象網頁
-        -  HTML5,CSS3, javascript, jQuery
-
-     [技術文件撰寫](https://youtu.be/sTKdw8_kR4M)
-
-  4. 
-        ![](https://github.com/p17johnny/resume/raw/master/img/jnretd.jpg) 
-        
-        Jornal de RetD
-        -  簡易的會員註冊系統與留言板
-        -  HTML5, CSS3, javascript, PHP, MySQL
-
-     [SDK](https://youtu.be/EyMuzKDEhYA)
   
-  5. 
-        ![](https://github.com/p17johnny/resume/raw/master/img/cubemumu.jpg) 
-        
-        方塊豬豬 CubeMuMu
-        -  爲心智障礙者設計的一款軟體，提升使用者的思考與潛能，並設計後端紀錄與分析使用者遊戲歷程、狀態，開放院方與家長查閱
-        -  Unity, C#, PHP, MySQL, BOOTSTRAP, jQuery
-        -  作者群：MyLava(陳繹仁、張齊紘、俞育襦、廖顯億、黃冠誌、翁紫瑄)
+![](https://github.com/p17johnny/resume/raw/master/img/chugia.jpg)
 
-     [操作介紹影片](https://youtu.be/g91Ds_5bnYU)
-        ｜
-     [作品理念介紹](https://youtu.be/4zMuve65g0U)
-        ｜
-     [Apk下載](https://drive.google.com/file/d/1nso1zXQqyFOaqmDqeiZVzffOmT6aTfoU/view?usp=sharing)
-        ｜
-     [後台](https://rensv.synology.me/MariaMumu/bk/index.php)
+1.  MarkeT 2.0 校園二手交易平台
+    -  以學生為中心的二手資源交流平台 
+    -  PHP, MySQL, HTML5, CSS3, ajax, javascript, jQuery
+    -  作者群：MyLava(陳繹仁、賴曉萱、謝隆傑、張齊紘、廖顯億)
 
-  6. 
-        ![](https://github.com/p17johnny/resume/raw/master/img/chumore.jpg) 
-        
-        揪Me ChuMore
-        -  串接Gov OpenData資料並過濾出所需資訊，製作一個統整全國活動的App，使用者也能夠自行建立活動，並有一切相對應之功能，詳情參閱影片與介紹，暫不開放下載，未來預計上市
-        -  AngularJs, Parse Server, MongoDB, SSL, Ionic, Cordova, GoogleMapService
-        -  作者群：MyLava(陳繹仁、張齊紘、廖顯億、黃冠誌、翁紫瑄)
-        
-     [官方宣傳網頁](http://rensv.synology.me:3000/)
+    [MarkeT 2.0官網](http://rensv.synology.me/market2_0/chugiamain/index.php)
+
+---
+
+![](https://github.com/p17johnny/resume/raw/master/img/flyingstudio.jpg) 
+
+
+2.  FlyingStudio 紙飛機競賽宣傳官網
+    -  推廣童年玩樂的紙飛機競賽
+    -  HTML5, CSS3, BOOTSTRAP
+
+---
+
+![](https://github.com/p17johnny/resume/raw/master/img/jojo.jpg)
+
+3.  JojoMarry
+    -  婚紗攝影形象網頁
+    -  HTML5,CSS3, javascript, jQuery
+
+    [技術文件撰寫](https://youtu.be/sTKdw8_kR4M)
+
+---
+
+![](https://github.com/p17johnny/resume/raw/master/img/jnretd.jpg)
+
+4.  Jornal de RetD
+    -  簡易的會員註冊系統與留言板
+    -  HTML5, CSS3, javascript, PHP, MySQL
+
+    [SDK](https://youtu.be/EyMuzKDEhYA)
+
+---
+
+![](https://github.com/p17johnny/resume/raw/master/img/cubemumu.jpg) 
+
+5.  方塊豬豬 CubeMuMu
+    -  爲心智障礙者設計的一款軟體，提升使用者的思考與潛能，並設計後端紀錄與分析使用者遊戲歷程、狀態，開放院方與家長查閱
+    -  Unity, C#, PHP, MySQL, BOOTSTRAP, jQuery
+    -  作者群：MyLava(陳繹仁、張齊紘、俞育襦、廖顯億、黃冠誌、翁紫瑄)
+
+    [操作介紹影片](https://youtu.be/g91Ds_5bnYU)
+    ｜
+    [作品理念介紹](https://youtu.be/4zMuve65g0U)
+    ｜
+    [Apk下載](https://drive.google.com/file/d/1nso1zXQqyFOaqmDqeiZVzffOmT6aTfoU/view?usp=sharing)
+    ｜
+    [後台](https://rensv.synology.me/MariaMumu/bk/index.php)
+
+---
+
+![](https://github.com/p17johnny/resume/raw/master/img/chumore.jpg) 
+
+6.  揪Me ChuMore
+    -  串接Gov OpenData資料並過濾出所需資訊，製作一個統整全國活動的App，使用者也能夠自行建立活動，並有一切相對應之功能，詳情參閱影片與介紹，暫不開放下載，未來預計上市
+    -  AngularJs, Parse Server, MongoDB, SSL, Ionic, Cordova, GoogleMapService
+    -  作者群：MyLava(陳繹仁、張齊紘、廖顯億、黃冠誌、翁紫瑄)
+    
+    [官方宣傳網頁](http://rensv.synology.me:3000/)
 
 
 - ### **自傳 Autobiography**
