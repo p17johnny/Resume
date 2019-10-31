@@ -47,7 +47,7 @@
     -  PHP, MySQL, HTML5, CSS3, ajax, javascript, jQuery
     -  作者群：MyLava(陳繹仁、賴曉萱、謝隆傑、張齊紘、廖顯億)
 
-    [MarkeT 2.0官網](http://rensv.synology.me/market2_0/chugiamain/index.php)
+    [MarkeT 2.0官網](https://rensv.synology.me/market2_0/chugiamain/index.php)
 
 ---
 
@@ -66,8 +66,6 @@
     -  婚紗攝影形象網頁
     -  HTML5,CSS3, javascript, jQuery
 
-    [技術文件撰寫](https://youtu.be/sTKdw8_kR4M)
-
 ---
 
 ![](https://github.com/p17johnny/resume/raw/master/img/jnretd.jpg)
@@ -75,8 +73,6 @@
 4.  Jornal de RetD
     -  簡易的會員註冊系統與留言板
     -  HTML5, CSS3, javascript, PHP, MySQL
-
-    [SDK](https://youtu.be/EyMuzKDEhYA)
 
 ---
 
@@ -104,7 +100,7 @@
     -  AngularJs, Parse Server, MongoDB, SSL, Ionic, Cordova, GoogleMapService
     -  作者群：MyLava(陳繹仁、張齊紘、廖顯億、黃冠誌、翁紫瑄)
     
-    [官方宣傳網頁](http://rensv.synology.me:3000/)
+    [官方宣傳網頁](https://rensv.synology.me:3000/)
 
 
 - ### **自傳 Autobiography**
@@ -121,23 +117,23 @@
 
   - #### MarkeT2.0（Hackthon Junior 2018青少年黑客松）2018.05 ~ 2018.07.12 實績：第一名
     -  擔任職位：組長
-    -  負責項目：前端設計、前端工程、後端設計、架構規劃、工作分派
+    -  負責項目：UI/UX設計、前端開發、後端開發、系統規劃
     >
     > 
   - #### 揪Me ChuMore（2019年第20屆全國慈善/科技/人文網頁設計比賽暨行動APP創作比賽）2019.05 ~ 2019.07.12 實績：銀獎
     -  擔任職位：組長
-    -  負責項目：前端設計、前端工程、後端設計、架構規劃、工作分派
+    -  負責項目：UI/UX設計、前端工程、後端開發、系統規劃、工作分派
     >
     > 
 
   - #### 揪Me ChuMore（2019年第24屆大專校院資訊應用服務創新競賽）2019.05 ~ 至今 實績：決賽成績未公告
     -  擔任職位：組長
-    -  負責項目：前端設計、前端工程、後端設計、架構規劃、工作分派
+    -  負責項目：UI/UX設計、前端工程、後端開發、系統規劃、工作分派
     >
     > 
 
   - #### 方塊豬豬 CubeMuMu（2019年第六屆瑪利 MuMu盃「心智障礙應用 APP」校園創意競賽）2019.01 ~ 至今 實績：企劃競賽第一名、軟體競賽進入複審，決賽成績未公告
     -  擔任職位：組長
-    -  負責項目：前端設計、前端工程、後端設計、架構規劃、工作分派
+    -  負責項目：後台設計、後台後端開發、前台後端開發、伺服器架設、工作分派
     >
     > 
