@@ -101,6 +101,17 @@
     -  作者群：MyLava(陳繹仁、張齊紘、廖顯億、黃冠誌、翁紫瑄)
     
     [官方宣傳網頁](https://rensv.synology.me:3000/)
+    
+---
+
+![](https://github.com/p17johnny/resume/raw/master/img/CourseSelector.jpg) 
+    
+7.  選課寶典CourseSelector
+    -  開放給所有學生查看校內課程與師長資訊，能夠針對師長特色送出HashTag與評論
+    -  PHP, MySQL, HTML5, CSS3, ajax, javascript, jQuery
+    -  作者群：MyLava(陳繹仁、張齊紘、廖顯億)
+    
+    [網頁展示](https://rensv.synology.me/CourseSelector)
 
 
 - ### **自傳 Autobiography**
