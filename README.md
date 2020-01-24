@@ -2,7 +2,7 @@
 
 - ### **個人資料**
 
-> **中文姓名: 陳繹仁 JohnnyChen**
+> **中文姓名: 陳繹仁 Chen-Yi-Ren**
 >
 > **英文姓名: Johnny**
 >
@@ -48,6 +48,7 @@
     -  作者群：MyLava(陳繹仁、賴曉萱、謝隆傑、張齊紘、廖顯億)
 
     [MarkeT 2.0官網](https://rensv.synology.me/market2_0/chugiamain/index.php)
+    > 已不開放註冊
 
 ---
 
@@ -90,17 +91,26 @@
     [Apk下載](https://drive.google.com/file/d/1nso1zXQqyFOaqmDqeiZVzffOmT6aTfoU/view?usp=sharing)
     ｜
     [後台](https://rensv.synology.me/MariaMumu/bk/index.php)
+    >後台預設帳號：admin 密碼：abc123
 
 ---
 
 ![](https://github.com/p17johnny/resume/raw/master/img/chumore.jpg) 
 
 6.  揪Me ChuMore
-    -  串接Gov OpenData資料並過濾出所需資訊，製作一個統整全國活動的App，使用者也能夠自行建立活動，並有一切相對應之功能，詳情參閱影片與介紹，暫不開放下載，未來預計上市
+    -  串接Gov OpenData資料並過濾出所需資訊，製作一個統整全國活動的App，使用者也能夠自行建立活動，並有一切相對應之功能，詳情參閱影片與介紹
     -  AngularJs, Parse Server, MongoDB, SSL, Ionic, Cordova, GoogleMapService
     -  作者群：MyLava(陳繹仁、張齊紘、廖顯億、黃冠誌、翁紫瑄)
     
     [官方宣傳網頁](https://rensv.synology.me:3000/)
+
+    [宣傳影片](https://www.facebook.com/MylavaChumore/videos/449701405712026/)
+
+    [成果展縮時攝影](https://www.facebook.com/MylavaChumore/videos/493516571269200/)
+
+    [Android apk Download](https://drive.google.com/open?id=12oQtRLzObOW1olE8HpYqo2XKDd-O-ayj)
+
+    [iOS TestFlight Link](https://testflight.apple.com/join/ZYsKROMe)
     
 ---
 
@@ -118,7 +128,7 @@
 
   - #### **學習期間**
 
-    > 我是陳繹仁，今年21歲， 我目前就讀於台中科技大學，對資訊工程學類課程特別感興趣，因此決定要念資訊管理系。我擁有許多程式設計與參賽經驗，也有前端網頁作品，擁有良好的電腦技能將可以提升工作的效率。
+    > 我是陳繹仁，今年21歲， 我目前就讀於台中科技大學，對資訊工程學類課程特別感興趣，因此決定要念資訊管理系。我擁有許多程式設計與參賽經驗，也有網頁作品(如上)，擁有良好的電腦技能將可以提升工作的效率。
     >
     >我對於Angular with Ionic的應用頗有信心。雖然目前因在學中，無法投入於證照考試的準備，但仍有能力可以完成相關專案。
     >
@@ -129,7 +139,7 @@
   - #### MarkeT2.0（Hackthon Junior 2018青少年黑客松）2018.05 ~ 2018.07.12 實績：第一名
     -  擔任職位：組長
     -  負責項目：UI/UX設計、前端開發、後端開發、系統規劃
-    >
+    >   
     > 
   - #### 揪Me ChuMore（2019年第20屆全國慈善/科技/人文網頁設計比賽暨行動APP創作比賽）2019.05 ~ 2019.07.12 實績：銀獎
     -  擔任職位：組長
@@ -137,19 +147,25 @@
     >
     > 
 
-  - #### 揪Me ChuMore（2019年第24屆大專校院資訊應用服務創新競賽）2019.05 ~ 至今 實績：資訊應用組IP4第二名
+  - #### 揪Me ChuMore（2019年第24屆大專校院資訊應用服務創新競賽）2019.05 ~ 2019.11 實績：資訊應用組IP4第二名
     -  擔任職位：組長
     -  負責項目：UI/UX設計、前端工程、後端開發、系統規劃、工作分派
     >
     > 
     
-  - #### 揪Me ChuMore（2019全國大專暨高中職學生專題製作競賽暨成果展示）2019.05 ~ 至今 實績：電資類組第三名
+  - #### 揪Me ChuMore（2019全國大專暨高中職學生專題製作競賽暨成果展示）2019.05 ~ 2019.11 實績：電資類組第三名
     -  擔任職位：組長
     -  負責項目：UI/UX設計、前端工程、後端開發、系統規劃、工作分派
     >
     > 
 
-  - #### 方塊豬豬 CubeMuMu（2019年第六屆瑪利 MuMu盃「心智障礙應用 APP」校園創意競賽）2019.01 ~ 至今 實績：企劃競賽第一名、軟體競賽第三名
+  - #### 揪Me ChuMore（2019台中科技大學資訊管理系專題展） 2019.05 ~ 2019.11 實績：資訊安全組 第三名
+    -  擔任職位：組長
+    -  負責項目：UI/UX設計、前端工程、後端開發、系統規劃、工作分派
+    >
+    > 
+
+  - #### 方塊豬豬 CubeMuMu（2019年第六屆瑪利 MuMu盃「心智障礙應用 APP」校園創意競賽）2019.01 ~ 2019.11 實績：企劃競賽第一名、軟體競賽第三名
     -  擔任職位：組長
     -  負責項目：後台設計、後台後端開發、前台後端開發、伺服器架設、工作分派
     >
